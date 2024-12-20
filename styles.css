@@ -1,0 +1,88 @@
+body
+{
+	background-color:pink;
+}
+
+#loginbox
+{
+	width:300px;
+	height:350px;
+	background-color:green;
+	margin:auto;
+}
+
+#registerbox
+{
+	width:500px;
+	height:500px;
+	background-color:silver;
+	margin:auto;
+}
+#clientbox
+{
+	width:600px;
+	height:900px;
+	background-color:silver;
+	margin:auto;
+}
+.heading
+{
+	font-family:calibri;
+	font-size:20pt;
+	font-weight:bold;
+	margin:auto;
+	width:100%;
+	color:white;
+	text-align:center;
+	padding-bottom:10px;
+	padding-top:10px;
+}
+
+.labels
+{
+	margin-left:10px;
+	font-size:16pt;
+	padding:5px 5px 5px 5px;
+	font-style:italic;
+}
+
+.inputs
+{
+	margin-left:20px;
+	padding:5px 5px 5px 5px;
+	width:75%;
+}
+
+.submitbtn
+{
+	margin:auto;
+	width:100%;
+	text-align:center;
+	margin-top:20px;
+}
+
+.submitbtn input
+{
+	width:50%;
+	height:40px;
+	background-color:green;
+	color:white;
+	font-size:16pt;
+}
+
+#newuser
+{
+	text-align:center;
+	font-size:14pt;
+	color:red;
+	margin-top:40px;
+}
+
+#forgot
+{
+	margin:auto;
+	text-align:center;
+	font-size:12pt;
+	color:yellow;
+	margin-top:20px;
+}
